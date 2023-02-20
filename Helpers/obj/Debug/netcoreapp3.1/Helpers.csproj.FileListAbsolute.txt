@@ -1,0 +1,13 @@
+C:\Users\mark\source\repos\FakeStoreTests\Helpers\bin\Debug\netcoreapp3.1\selenium-manager\linux\selenium-manager
+C:\Users\mark\source\repos\FakeStoreTests\Helpers\bin\Debug\netcoreapp3.1\selenium-manager\macos\selenium-manager
+C:\Users\mark\source\repos\FakeStoreTests\Helpers\bin\Debug\netcoreapp3.1\selenium-manager\windows\selenium-manager.exe
+C:\Users\mark\source\repos\FakeStoreTests\Helpers\bin\Debug\netcoreapp3.1\Helpers.deps.json
+C:\Users\mark\source\repos\FakeStoreTests\Helpers\bin\Debug\netcoreapp3.1\Helpers.dll
+C:\Users\mark\source\repos\FakeStoreTests\Helpers\bin\Debug\netcoreapp3.1\Helpers.pdb
+C:\Users\mark\source\repos\FakeStoreTests\Helpers\obj\Debug\netcoreapp3.1\Helpers.csproj.AssemblyReference.cache
+C:\Users\mark\source\repos\FakeStoreTests\Helpers\obj\Debug\netcoreapp3.1\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mark\source\repos\FakeStoreTests\Helpers\obj\Debug\netcoreapp3.1\Helpers.AssemblyInfoInputs.cache
+C:\Users\mark\source\repos\FakeStoreTests\Helpers\obj\Debug\netcoreapp3.1\Helpers.AssemblyInfo.cs
+C:\Users\mark\source\repos\FakeStoreTests\Helpers\obj\Debug\netcoreapp3.1\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\mark\source\repos\FakeStoreTests\Helpers\obj\Debug\netcoreapp3.1\Helpers.dll
+C:\Users\mark\source\repos\FakeStoreTests\Helpers\obj\Debug\netcoreapp3.1\Helpers.pdb

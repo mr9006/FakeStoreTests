@@ -1,0 +1,5 @@
+﻿{
+  "browser": "chrome",
+  "isRemote": "false",
+  "remoteAddress": "http://localhost:4444/wd/hub",
+}
